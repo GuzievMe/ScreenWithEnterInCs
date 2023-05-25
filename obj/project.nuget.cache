@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "j5EvOBePDjzFqNf+kvPCPqLzlo9sFSHQkOuJMt+6ZuD5DYyfEh5bVV8Eke1Gr8wlZoZy66ver2KmvwqaSVYSEw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Maham\\Desktop\\StreamAtLesson_8May\\StreamAtLesson_8May.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Maham\\.nuget\\packages\\emphasis.screencapture.bitmap\\1.0.5\\emphasis.screencapture.bitmap.1.0.5.nupkg.sha512",
+    "C:\\Users\\Maham\\.nuget\\packages\\emphasis.screencapture.common\\1.0.5\\emphasis.screencapture.common.1.0.5.nupkg.sha512",
+    "C:\\Users\\Maham\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Maham\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\Maham\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\Maham\\.nuget\\packages\\system.drawing.common\\5.0.2\\system.drawing.common.5.0.2.nupkg.sha512",
+    "C:\\Users\\Maham\\.nuget\\packages\\system.reactive\\6.0.0\\system.reactive.6.0.0.nupkg.sha512",
+    "C:\\Users\\Maham\\.nuget\\packages\\system.reactive.windows.forms\\6.0.0\\system.reactive.windows.forms.6.0.0.nupkg.sha512",
+    "C:\\Users\\Maham\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'System.Reactive.Windows.Forms 6.0.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "System.Reactive.Windows.Forms",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
